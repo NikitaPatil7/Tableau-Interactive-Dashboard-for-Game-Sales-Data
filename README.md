@@ -82,7 +82,7 @@ This project focuses on visualizing and understanding key business KPIs like **S
 ## 🚀 How to Use
 
 1. Download or clone this repository  
-2. Open `Game+Delivery.xlsx` in Excel to view raw data  
+2. Open `Game Delivery.xlsx` in Excel to view raw data  
 3. Open `Game_Delivery_Dashboard.twbx` in Tableau Desktop  
 4. Use slicers to interact with the dashboard  
 5. Refer to the PowerPoint for summarized findings  
